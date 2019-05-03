@@ -1,7 +1,7 @@
 /*
 Find The Parity Outlier.cpp
 Name: Nely Nehemia
-Date: 05/02/19
+Date: 02/05/19
 Kata: https://www.codewars.com/kata/find-the-parity-outlier
 */
 
