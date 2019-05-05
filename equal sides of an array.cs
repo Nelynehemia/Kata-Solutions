@@ -1,5 +1,5 @@
 /*
-Find Even Index.cs
+equal sides of an array.cs
 Name: Nely Nehemia
 Date: 05/05/19
 https://www.codewars.com/kata/equal-sides-of-an-array/csharp
