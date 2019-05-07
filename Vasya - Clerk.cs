@@ -8,8 +8,7 @@ Kata: https://www.codewars.com/kata/vasya-clerk/train/csharp
 using System;
 
 public class Line
-{
-      
+{   
     public static string Tickets(int[] peopleInLine)
     {
         int numOf25 = 0, numOf50 = 0;
@@ -42,7 +41,6 @@ public class Line
                         numOf25 -= 3;
                     else
                         return "NO";
-
                     break;
             }
         }
